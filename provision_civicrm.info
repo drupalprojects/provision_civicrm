@@ -1,7 +1,0 @@
-name = Provision CiviCRM
-description = CiviCRM configuration for Aegir platforms
-package = Provision
-dependencies[] = drush
-
-core = 6.x
-
